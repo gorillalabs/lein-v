@@ -1,4 +1,4 @@
-(defproject com.roomkey/lein-v :lein-v
+(defproject gorillalabs/lein-v :lein-v
   :description "A Leiningen plugin to reflect on the SCM workspace of a project"
   :url "https://github.com/roomkey/lein-v"
   :aliases {"deploy" ["do" ["v" "abort-when-not-anchored"] "deploy"]}
